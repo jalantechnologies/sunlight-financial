@@ -1,0 +1,8 @@
+# editor files
+.idea/*
+
+# built source
+lib/*
+
+# dependencies
+node_modules

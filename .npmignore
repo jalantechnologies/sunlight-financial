@@ -1,0 +1,19 @@
+# add files here which should not be included in the package tarball
+
+# editor files
+.idea/*
+
+# dependencies
+node_modules
+
+# source files
+src/*
+
+# lock files
+package-lock.json
+
+# rc and config files
+.babelrc
+.editorconfig
+.eslintrc
+.gitignore
